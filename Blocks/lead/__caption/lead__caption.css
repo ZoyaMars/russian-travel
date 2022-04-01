@@ -1,9 +1,14 @@
 .lead__caption {
+    padding-right: 825px;
+    /* это я просто придумала, чтобы блок встал на место */
     font-weight: 400;
     font-size: 10px;
     line-height: 14px;
     letter-spacing: 1.5px;
     text-transform: uppercase;
     color: #FFFFFF;
-    padding-left: 0;
+    /* display: block;
+    Блочный элемент 
+    float: left;
+    Блоки выстраиваются по горизонтали  */
 }
