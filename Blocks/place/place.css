@@ -1,0 +1,11 @@
+.place {
+    max-width: 984px;
+    display: grid;
+    grid-template-columns: minmax(min-content, 460px) minmax(min-content, 484px);
+    align-content: flex-start;
+    justify-content: flex-start;
+    row-gap: 48px;
+    column-gap: 40px;
+    padding: 0 0 80px;
+    margin: 0;
+}
