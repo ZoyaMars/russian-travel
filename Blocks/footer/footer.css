@@ -1,0 +1,9 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    min-width: 1184px;
+    align-content: center;
+    flex-wrap: nowrap;
+    padding: 92px 48px 24px 48px;
+    margin: 0;
+}

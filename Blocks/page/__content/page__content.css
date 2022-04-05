@@ -1,9 +1,10 @@
 .page__content {
-    margin-top: 53px;
-    margin-bottom: 92px;
+    /* margin-top: 53px;
+    margin-bottom: 92px; */
 }
 
-@media screen and (max-width:1340px) {
+
+/* @media screen and (max-width:1340px) {
     .page__content {
         margin-top: 45px;
     }
@@ -20,4 +21,4 @@
         margin-top: 48px;
         margin-bottom: 64px;
     }
-}
+} */
