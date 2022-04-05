@@ -3,9 +3,7 @@
     grid-template-columns: repeat(4, 284px);
     grid-template-rows: repeat(3, 213px);
     gap: 16px;
-    padding: 0;
     grid-template-rows: auto;
     grid-auto-flow: dense;
-    margin: 92px 48px;
     justify-content: center;
 }
