@@ -37,18 +37,33 @@
 @media screen and (max-width: 1140px) {
     .cover__item {
         min-height: 640px;
+        max-width: 1024px;
+        padding: 0;
+        margin: 0;
     }
 }
 
 @media screen and (max-width:984px) {
     .cover__item {
         min-height: 480px;
+        max-width: 768px;
+        padding: 0;
+        margin: 0;
     }
 }
 
 @media screen and (max-width:568px) {
     .cover__item {
         min-height: 200px;
-        padding: 16px;
+        width: 320px;
+        padding: 0;
+        margin: 0;
+        background-image: url(../../../images/cover-trains.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        z-index: 1;
+        position: relative;
+        opacity: 1;
     }
 }

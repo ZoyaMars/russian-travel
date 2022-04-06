@@ -4,10 +4,13 @@
         padding: 0 48px;
         margin: 0 auto;
     }
-    /* @media screen and (max-width: 1140px) {
+    
+    @media screen and (max-width: 1140px) {
         .cover {
             width: 1024px;
             height: 640px;
+            padding: 0;
+            margin: 0;
         }
     }
     
@@ -15,6 +18,8 @@
         .cover {
             width: 768px;
             height: 480px;
+            padding: 0;
+            margin: 0;
         }
     }
     
@@ -22,5 +27,7 @@
         .cover {
             width: 320px;
             height: 200px;
+            padding: 0;
+            margin: 0;
         }
-    } */
+    }
