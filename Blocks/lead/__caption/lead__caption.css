@@ -15,8 +15,9 @@
 
 @media screen and (max-width: 1140px) {
     .lead__caption {
-        margin-left: 48px;
-        margin-right: 818px;
+        margin: 0;
+        /* margin-left: 48px; */
+        margin-right: 765px;
         padding: 0;
     }
 }
