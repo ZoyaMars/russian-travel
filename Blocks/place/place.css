@@ -30,11 +30,15 @@
 
 @media screen and (max-width:568px) {
     .place {
-        max-width: 320px;
+        width: 320px;
+        height: 965;
         padding: 0;
         grid-template-columns: minmax(min-content, max-content);
         grid-template-rows: repeat(4, minmax(min-content, max-content));
         row-gap: 32px;
         margin-top: 50px;
+    }
+    .place:first-child {
+        margin-top: 0px;
     }
 }
