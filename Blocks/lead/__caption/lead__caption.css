@@ -12,3 +12,27 @@
     float: left;
     Блоки выстраиваются по горизонтали  */
 }
+
+@media screen and (max-width: 1140px) {
+    .lead__caption {
+        margin-left: 48px;
+        margin-right: 818px;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 984px) {
+    .lead__caption {
+        margin-left: 16px;
+        margin-right: 586px;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 568px) {
+    .lead__caption {
+        margin-left: 16px;
+        margin-right: 140px;
+        padding: 0;
+    }
+}

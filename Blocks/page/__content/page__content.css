@@ -3,8 +3,7 @@
     margin-bottom: 92px; */
 }
 
-
-/* @media screen and (max-width:1340px) {
+@media screen and (max-width:1340px) {
     .page__content {
         margin-top: 45px;
     }
@@ -18,7 +17,7 @@
 
 @media screen and (max-width:568px) {
     .page__content {
-        margin-top: 48px;
-        margin-bottom: 64px;
+        margin: 0;
+        padding: 0;
     }
-} */
+}
