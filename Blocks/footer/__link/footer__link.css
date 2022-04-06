@@ -11,3 +11,11 @@
     padding: 0 18px 0 0;
     text-decoration: none;
 }
+
+@media screen and (max-width: 568px) {
+    .footer__link {
+        padding: 0 0 32px 0;
+        font-size: 24px;
+        line-height: 24px;
+    }
+}

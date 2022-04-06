@@ -12,3 +12,22 @@
         margin: 0 auto;
         padding: 28px 0 24px;
     }
+    
+    @media screen and (max-width:1140px) {
+        .page {
+            max-width: 1024px;
+        }
+    }
+    
+    @media screen and (max-width:984px) {
+        .page {
+            max-width: 768px;
+        }
+    }
+    
+    @media screen and (max-width:568px) {
+        .page {
+            max-width: 300px;
+            padding: 16px 0 0;
+        }
+    }
