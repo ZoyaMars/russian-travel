@@ -16,6 +16,6 @@
     .header__lang-link {
         font-size: 18px;
         line-height: 20px;
-        padding: 30px 0 56px;
+        width: 22px;
     }
 }
