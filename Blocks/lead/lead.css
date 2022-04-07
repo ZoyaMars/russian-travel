@@ -5,6 +5,8 @@
     justify-items: center;
     /* margin: 0 auto; */
     /* padding: 0; */
+    margin-left: 148px;
+    margin-right: 148px;
 }
 
 @media screen and (max-width:1140px) {
