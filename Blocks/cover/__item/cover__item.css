@@ -47,8 +47,6 @@
     .cover__item {
         min-height: 480px;
         max-width: 768px;
-        padding: 0;
-        margin: 0;
     }
 }
 
@@ -56,14 +54,5 @@
     .cover__item {
         min-height: 200px;
         width: 320px;
-        padding: 0;
-        margin: 0;
-        background-image: url(../../../images/cover-trains.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center center;
-        z-index: 1;
-        position: relative;
-        opacity: 1;
     }
 }

@@ -32,12 +32,6 @@
     @media screen and (max-width:568px) {
         .place__paragraph {
             max-width: 288px;
-            font-size: 16px;
-            line-height: 163%;
-            margin-bottom: 25px;
             margin-left: 16px;
-        }
-        .place__paragraph:last-of-type {
-            margin-bottom: 0px;
         }
     }
