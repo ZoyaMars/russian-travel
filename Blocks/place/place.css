@@ -28,14 +28,12 @@
 
 @media screen and (max-width:984px) {
     .place {
+        max-width: 720px;
         column-gap: 28px;
         margin-top: 73px;
         padding: 0;
         grid-template-columns: minmax(min-content, 340px) minmax(min-content, 352px);
     }
-    /* .place:first-child {
-        margin-top: 0px;
-    } */
 }
 
 @media screen and (max-width:568px) {
@@ -48,7 +46,4 @@
         row-gap: 32px;
         margin-top: 50px;
     }
-    /* .place:first-child {
-        margin-top: 0px;
-    } */
 }
