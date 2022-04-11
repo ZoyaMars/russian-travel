@@ -9,20 +9,20 @@
     max-width: 560px;
 }
 
-@media screen and (max-width: 1140px) {
+@media screen and (max-width: 1276px) {
     .cover__title {
         margin-top: 195px;
         margin-bottom: 32px;
     }
 }
 
-@media screen and (max-width:984px) {
+@media screen and (max-width: 1019px) {
     .cover__title {
         margin-top: 115px;
     }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 765px) {
     .cover__title {
         font-size: 32px;
         line-height: 35px;

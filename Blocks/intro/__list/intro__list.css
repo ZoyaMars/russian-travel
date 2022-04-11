@@ -12,20 +12,20 @@
     padding: 0;
 }
 
-@media screen and (max-width:1140px) {
+@media screen and (max-width: 1276px) {
     .intro__list {
         margin-top: 33px;
         margin-left: 48px;
     }
 }
 
-@media screen and (max-width:984px) {
+@media screen and (max-width: 1019px) {
     .intro__list {
         margin-left: 24px;
     }
 }
 
-@media screen and (max-width:568px) {
+@media screen and (max-width: 765px) {
     .intro__list {
         margin-top: 34px;
         margin-left: 16px;

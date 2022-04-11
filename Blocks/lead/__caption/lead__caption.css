@@ -13,7 +13,7 @@
     Блоки выстраиваются по горизонтали  */
 }
 
-@media screen and (max-width: 1140px) {
+@media screen and (max-width: 1276px) {
     .lead__caption {
         margin: 0;
         margin-left: 48px;
@@ -22,14 +22,14 @@
     }
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 1019px) {
     .lead__caption {
         margin-left: 16px;
         margin-right: 586px;
     }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 765px) {
     .lead__caption {
         margin-right: 140px;
     }

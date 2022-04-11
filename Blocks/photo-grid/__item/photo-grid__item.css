@@ -4,21 +4,21 @@
     object-fit: contain;
 }
 
-@media screen and (max-width:1140px) {
+@media screen and (max-width: 1276px) {
     .photo-grid__item {
         width: 300px;
         height: 225px;
     }
 }
 
-@media screen and (max-width:984px) {
+@media screen and (max-width: 1019px) {
     .photo-grid__item {
         width: 352px;
         height: 264px;
     }
 }
 
-@media screen and (max-width:568px) {
+@media screen and (max-width: 765px) {
     .photo-grid__item {
         width: 288px;
         height: 216px;

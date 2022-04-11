@@ -14,7 +14,7 @@
     padding-bottom: 0px;
 }
 
-@media screen and (max-width:1140px) {
+@media screen and (max-width: 1276px) {
     .place {
         padding: 0;
         margin: 0;
@@ -26,7 +26,7 @@
     }
 }
 
-@media screen and (max-width:984px) {
+@media screen and (max-width: 1019px) {
     .place {
         max-width: 720px;
         column-gap: 28px;
@@ -36,7 +36,7 @@
     }
 }
 
-@media screen and (max-width:568px) {
+@media screen and (max-width: 765px) {
     .place {
         width: 320px;
         height: 965;

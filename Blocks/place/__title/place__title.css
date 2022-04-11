@@ -20,7 +20,7 @@
     }
 } */
 
-@media screen and (max-width:984px) {
+@media screen and (max-width: 1019px) {
     .place__title {
         width: 340px;
         font-size: 42px;
@@ -30,7 +30,7 @@
     }
 }
 
-@media screen and (max-width:568px) {
+@media screen and (max-width: 765px) {
     .place__title {
         max-width: 288px;
         font-size: 32px;

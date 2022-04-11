@@ -11,21 +11,21 @@
     padding: 0 0 40px;
 }
 
-@media screen and (max-width:1140px) {
+@media screen and (max-width: 1276px) {
     .intro__title {
         width: 690px;
         margin-left: 48px;
     }
 }
 
-@media screen and (max-width:984px) {
+@media screen and (max-width: 1019px) {
     .intro__title {
         max-width: 720px;
         margin-left: 24px;
     }
 }
 
-@media screen and (max-width:568px) {
+@media screen and (max-width: 765px) {
     .intro__title {
         max-width: 288px;
         font-size: 32px;

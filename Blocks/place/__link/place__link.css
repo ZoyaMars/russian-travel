@@ -29,7 +29,7 @@
     }
 } */
 
-@media screen and (max-width:568px) {
+@media screen and (max-width: 765px) {
     .place__link {
         font-size: 18px;
         line-height: 22px;

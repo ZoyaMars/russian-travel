@@ -2,9 +2,9 @@
         font-family: "Inter", "Arial", "sans-serif";
         background-color: #2A2C2F;
         color: white;
-        overflow: hidden;
+        /* overflow: hidden; */
         text-rendering: optimizeLegibility;
-        /* min-width: 320px; */
+        min-width: 320px;
         min-width: 1280px;
         min-height: 100vh;
         display: flex;
@@ -13,24 +13,29 @@
         padding: 28px 0 24px;
     }
     
-    @media screen and (max-width:1140px) {
+    @media screen and (max-width: 1276px) {
         .page {
+            max-width: 1024px;
             min-width: 1024px;
             padding: 0;
             margin: 0;
         }
     }
     
-    @media screen and (max-width:984px) {
+    @media screen and (max-width: 1019px) {
         .page {
-            min-width: 768px;
+            max-width: 768px;
+            min-width: 500px;
+            margin: 0;
             margin-bottom: 0;
+            display: flex;
+            flex-wrap: wrap;
         }
     }
     
-    @media screen and (max-width:568px) {
+    @media screen and (max-width: 765px) {
         .page {
-            min-width: 320px;
+            max-width: 320px;
             padding: 0;
         }
     }
