@@ -2,20 +2,20 @@
     /* margin-top: 53px;
     margin-bottom: 92px; */
 
-
-}
 @media screen and (max-width: 1276px) {
     .page__content {
         max-width: 928px;
         margin-top: 45px;
     }
 }
+
 @media screen and (max-width: 1019px) {
     .page__content {
         max-width: 720px;
         margin-bottom: 0px;
     }
 }
+
 @media screen and (max-width: 765px) {
     .page__content {
         max-width: 320px;
